@@ -1,0 +1,1 @@
+export { RestorePasswordElement } from './RestorePasswordElement';
