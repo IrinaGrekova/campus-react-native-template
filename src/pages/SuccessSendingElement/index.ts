@@ -1,1 +1,0 @@
-export {SuccessSendingElement} from './SuccessSendingElement'

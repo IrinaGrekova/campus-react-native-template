@@ -1,1 +1,0 @@
-export const TAB_ROUTE_ICONS_MAP = {};

@@ -1,1 +1,0 @@
-export { NewPasswordElement } from './NewPasswordElement';
