@@ -1,3 +1,0 @@
-{
-  "extends": "@aorr-common/tsconfig/react-native/tsconfig.json"
-}
